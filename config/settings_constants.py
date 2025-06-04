@@ -8,8 +8,8 @@ source = ~/.config/{APP_NAME_CAP}/config/hypr/{APP_NAME}.conf
 """
 
 DEFAULTS = {
-    'prefix_restart': "SUPER ALT",
-    'suffix_restart': "B",
+    'prefix_restart': "SUPER",
+    'suffix_restart': "R",
     'prefix_axmsg': "SUPER",
     'suffix_axmsg': "A",
     'prefix_dash': "SUPER",
@@ -21,7 +21,7 @@ DEFAULTS = {
     'prefix_kanban': "SUPER",
     'suffix_kanban': "N",
     'prefix_launcher': "SUPER",
-    'suffix_launcher': "R",
+    'suffix_launcher': "Space",
     'prefix_tmux': "SUPER",
     'suffix_tmux': "T",
     'prefix_cliphist': "SUPER",
